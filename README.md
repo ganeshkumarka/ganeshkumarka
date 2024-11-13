@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Ganesh!
 👩‍💻 AI/ML Enthusiast<br>
-🎓 CS Student at CUSAT (Class of 2027) specializing in AI and Data Science<br>
+🎓 Int.Msc CS Student at CUSAT (specializing in AI and Data Science)<br>
    Currently doing a Research Internship at NTNU<br>
 
 ## 🌐 Socials:

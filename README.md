@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Ganesh!
 👩‍💻 AI/ML Enthusiast<br>
 🎓 Int.Msc CS Student at CUSAT (specializing in AI and Data Science)<br>
-   Currently doing a Research Internship at NTNU<br>
+  
 
 ## 🌐 Socials:
 - LinkedIn - www.linkedin.com/in/ganesh-kumar-515562256
